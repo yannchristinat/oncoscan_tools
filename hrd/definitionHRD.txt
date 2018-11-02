@@ -1,0 +1,16 @@
+HRD-LOH: number of LOH region longer than 15Mb but shorter than the whole chromosome (Abkevich et al, 2012)
+
+HRD-TAI: number of gain/loss region that span to the telomere but do not cross the centromere (Birkbak et al, 2012). 
+ Myriad: and are longer than 11Mb
+
+HRD-LST: Large-scale state transitions (LST), defined as chromosomal break between adjacent regions of at least 10 Mb 
+ after removing regions <3Mb (Popova et al., 2012)
+
+Ploidy: Total number of chromosomes. Less than 50 chromosomes = near diploid (Popova et al., 2012)
+
+TD-plus: CDK12 loss was consistently associated with a particular genomic instability pattern characterized by hundreds 
+ of tandem duplications of up to 10 megabases (Mb) in size. Tandem duplications were characterized by a bimodal (~0.3 and 
+ ~3 Mb) size distribution. We hypothesize that at least two different phenotypes are associated with frequent TDs in a tumor 
+ genome: the first one is the TD phenotype consisting of a high rate of TDs <1 Mb and the second one is associated with 
+ inactivation of CDK12 and is characterized by TDs of up to 10 Mb, which could be subsequently designated as TD-plus phenotype 
+ (or CDK12 TD-plus phenotype).(Popova et al., 2016)
